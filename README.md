@@ -38,7 +38,7 @@ Angular CLI
 
 <h4>Installation p</h4>
 
-<b>Clone the Repository:</b> <p> git clone https://github.com/naveen0735/health-challenge-tracker.gitcd </p>
+<b>Clone the Repository:</b> <p> git clone [https://github.com/naveen0735/health-challenge-tracker.gitcd](https://github.com/Naveen0735/Health-Challange-Tracker?tab=readme-ov-file) </p>
 
 <b>Install Dependencies:</b> <p> npm install </p>
 
